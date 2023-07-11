@@ -3,7 +3,8 @@ This repository contains multiple functions and scripts to simulate orbit trajec
 
 # Files
 
-The following MATLAB script and functions are included 
+The following MATLAB script and functions are included:
+
 1-  A code that simulates the trajectory of bielliptic transfer between two circular orbits  with given r2: "bi_elliptic.m"
 2- A code that converts position and velocity in ECI coordinates to for a given elliptical orbit" ECI2classical"
 3- A script that computes the trajectory of Hohmann transfer for two circular orbits using RK-4 numerical integration: "Hohmann_trans.m"
