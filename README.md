@@ -12,4 +12,4 @@ The following MATLAB script and functions are included:
 5. - A script that simulates a satellite trajectory in cartesian coordinates by solving Kepler's equation" "simulate_orbit.m"
 6. - A function that solves the Kepler equation to obtain the value of Eccentric anomaly given eccentricity and true anomaly: "solve_Kepler.m"
 7. - A function that solves the Kepler equation for n orbital periods to find the true anomaly trend: "track_true_anomaly.m"
-8. -" Main.m, Hohmann.m, and Orbit_numerical.m" contain script to solve different orbital mechanics problems using the above functions
+8. - " Main.m, Hohmann.m, and Orbit_numerical.m" contain script to solve different orbital mechanics problems using the above functions
